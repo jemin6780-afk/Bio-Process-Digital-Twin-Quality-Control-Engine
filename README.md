@@ -175,6 +175,8 @@ Output figures are saved to `outputs/{multivariate,deviation,fluid}/`.
 
 ## 🔬 Synthetic Dataset
 
+"To ensure reproducibility while respecting the confidentiality of industrial data, this project utilizes high-fidelity synthetic data simulated based on biokinetic and fluid dynamic principles."
+
 The dataset (`data/synthetic_batch_data.py`) generates **30 × 144 time-point fed-batch CHO cell culture** records with:
 
 - Realistic variable ranges: pH 6.8–7.2, DO 5–70%, Titre 0–8 g/L, VCD 0–130 × 10⁶ cells/mL
