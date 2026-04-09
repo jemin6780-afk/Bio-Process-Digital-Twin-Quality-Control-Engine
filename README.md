@@ -149,8 +149,8 @@ pid.plot_response(rpms, dos)
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/BioProcess-Optimizer.git
-cd BioProcess-Optimizer
+git clone https://github.com/jemin6780-afk/Bio-Process-Digital-Twin-Quality-Control-Engine.git
+cd Bio-Process-Digital-Twin-Quality-Control-Engine
 
 # 2. Install dependencies
 pip install -r requirements.txt
