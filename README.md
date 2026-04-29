@@ -217,7 +217,7 @@ The dataset (`data/synthetic_batch_data.py`) generates **30 × 144 time-point fe
 
 ## 👤 About
 
-Built by **Jemin Lee** as part of a self-directed preparation for the MSc Computational Bioengineering programme at **Imperial College London**.
+Built by **Jemin Lee** as part of a self-directed preparation for the MSc Biomaterials and Tissue Engineering programme at **University College London**.
 
 The project is motivated by a core belief: _the missing piece in biopharmaceutical MSAT is not more data — it is the computational infrastructure to make that data actionable in real time._
 
