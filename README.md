@@ -6,22 +6,22 @@ This project is a prototype for **MSAT (Manufacturing Science and Technology) op
 
 ### Module 1 — Multivariate Analysis
 <p align="center">
-  <img src="correlation_heatmap.png" width="45%" />
-  <img src="pca_analysis.png" width="45%" />
+  <img src="outputs/multivariate/correlation_heatmap.png" width="45%" />
+  <img src="outputs/multivariate/pca_analysis.png" width="45%" />
 </p>
 
 *Figure 1: Correlation Matrix for CPP identification and PCA for batch clustering.*
 
 ### Module 2 — AI-Based Deviation Detection
 <p align="center">
-  <img src="anomaly_Batch_000.png" width="80%" />
+  <img src="outputs/deviation/anomaly_Batch_000.png" width="80%" />
 </p>
 *Figure 2: Real-time anomaly mapping using Isolation Forest. The decision boundaries highlight deviations from the "Golden Batch" trajectory.*
 
 ### Module 3 — Bioreactor Fluid Dynamics & PID Control
 <p align="center">
-  <img src="agitation_sweep.png" width="45%" />
-  <img src="pid_do_control.png" width="45%" />
+  <img src="outputs/fluid/agitation_sweep.png" width="45%" />
+  <img src="outputs/fluid/pid_do_control.png" width="45%" />
 </p>
 *Figure 3: Hydrodynamic characterisation (Agitation Sweep) and closed-loop PID response for Dissolved Oxygen (DO) stabilisation.*
 
