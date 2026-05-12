@@ -1,4 +1,5 @@
-# 🧬 Bio-Process Digital Twin & Quality Control Engine
+# 🧬 Bioprocess Statistical Monitoring & Deviation Detection Framework
+
 
 This project is a prototype for **MSAT (Manufacturing Science and Technology) optimization**, bridging theoretical fluid dynamics with practical bioprocess scaling logic.
 
